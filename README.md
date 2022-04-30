@@ -1,0 +1,1 @@
+# fastapi-m-text-extractor
